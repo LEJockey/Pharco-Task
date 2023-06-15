@@ -1,0 +1,5 @@
+.custom {
+    margin-top: calc(100vh/2);
+    transform: translatey(-50%);
+    margin-left: 2rem;
+}
